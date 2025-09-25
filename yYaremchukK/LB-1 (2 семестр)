@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Лабораторна робота 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #e0f7fa, #e1bee7);
+            margin: 40px;
+            color: #333;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #4a148c;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+        ul {
+            background: #f3e5f5;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Лабораторна робота №1</h1>
+        <h2>Структура веб-документу, базовий синтаксис HTML</h2>
+        <p><b>Мета роботи:</b> набуття практичного досвіду створення веб-документу та використання базових тегів HTML.</p>
+        <p>Це приклад оформленого документа index.html із завдання.</p>
+        <ul>
+            <li>Заголовки</li>
+            <li>Абзаци</li>
+            <li>Списки</li>
+            <li>Просте оформлення</li>
+        </ul>
+    </div>
+</body>
+</html>
